@@ -73,4 +73,3 @@ Contributions are welcome. Please adhere to the project structure and coding sta
 
 This project is open source
 
-*Note: Customize sections as necessary to align with your project details.*
