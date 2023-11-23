@@ -1,5 +1,3 @@
-Sure, I'll revise the README with the provided URL and mention that it's open source. Here's the updated README:
-
 # fastapi-base
 
 ## Introduction
